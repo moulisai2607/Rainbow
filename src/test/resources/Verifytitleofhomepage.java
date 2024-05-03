@@ -6,6 +6,7 @@ public class Verifytitleofhomepage {
 		 String ht=driver.getTitle();
 		 Assert.assertEquals(et,ht,"Both are not matching");
 		System.out.println("TC is pass");
+		System.out.println("done by mouli");
 		
 	}
 
